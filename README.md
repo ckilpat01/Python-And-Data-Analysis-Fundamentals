@@ -1,2 +1,2 @@
 # Python-And-Data-Analysis-Fundamentals
-Analysis Of User Demographic And Preference Data For Cardio Fitness Equipment
+Analysis Of User Demographics And Cardio Fitness Equipment Preferences
